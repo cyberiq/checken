@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Poultry Monitor",
+    "slug": "poultry-monitor-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0b1f2a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.checken.poultrymonitor"
+    }
+  }
+}

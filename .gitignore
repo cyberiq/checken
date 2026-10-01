@@ -1,0 +1,14 @@
+# Generated build files
+*.bin
+*.elf
+*.map
+*.hex
+*.o
+*.pyc
+
+# IDE settings
+.vscode/
+.DS_Store
+
+# Logs
+*.log
